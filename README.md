@@ -80,7 +80,7 @@
 ## 📫 Связаться со мной
 
 <p align="center">
-  <a href="https://t.me/lostalsss">
+  <a href="https://t.me/thereisofc">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="mailto:boymotya@gmail.com">
