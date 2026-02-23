@@ -69,19 +69,6 @@
 
 ---
 
-## 📊 GitHub статистика
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Matveykk&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matveykk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Matveykk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ## 🏆 Достижения
 
 - 🎓 **Т1.Дебют** (2025) — сертификат об участии в программе
@@ -102,10 +89,6 @@
   <a href="https://hh.ru/resume/10078250ff0ee40ca00039ed1f565639785468">
     <img src="https://img.shields.io/badge/HeadHunter-D6001C?style=for-the-badge&logo=headhunter&logoColor=white" alt="HH.ru"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Matveykk&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
 </p>
 
 ---
